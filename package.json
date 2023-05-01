@@ -1,6 +1,6 @@
 {
   "name": "erpnext",
-  "description": "Open Source ERP System powered by the Frappe Framework jo hai",
+  "description": "Open Source ERP System powered by the Frappe Framework jo hai wo hai",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/frappe/erpnext.git"
